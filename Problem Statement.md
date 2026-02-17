@@ -21,6 +21,21 @@ By integrating these datasets, the project aims to identify the factors most str
 
 ---
 
+## **Motivation & Benefits**
+
+### **Why This Matters**
+- SAT performance is a key indicator of college readiness.  
+- States differ widely in income, demographics, and school resources.  
+- Understanding these relationships can guide targeted interventions.
+
+### **Benefits**
+- Helps policymakers identify structural inequities.  
+- Supports resource allocation decisions.  
+- Demonstrates how multi‑source public datasets can be integrated for predictive modeling.  
+- Provides a scalable framework for future educational analytics.
+
+---
+
 ## **Data Needed**
 
 For data needed for this project, we will require state‑level data from multiple public sources, including:
@@ -29,10 +44,45 @@ For data needed for this project, we will require state‑level data from multip
 - **Socioeconomic indicators** (e.g., median household income, poverty rate, educational attainment, racial composition)  
 - **Education system characteristics** (e.g., per‑pupil spending, student–teacher ratios, graduation rates, enrollment)
 
-These data will be sourced from the 
-- **College Board SAT Suite State Reports**, 
-- **U.S. Census Bureau’s American Community Survey (ACS)**, and 
-- **National Center for Education Statistics (NCES)**.
+These data will be sourced from:
+### **A. College Board SAT Suite Annual State Reports**
+**Purpose:**  
+- SAT participation  
+- Mean ERW, Math, Total scores  
+- Demographic distributions  
+- Income quintile performance  
+- Benchmark attainment  
+
+**Citation:**  
+College Board. *SAT Suite of Assessments Annual Reports.*  
+[https://satsuite.collegeboard.org/media/pdf](https://satsuite.collegeboard.org/media/pdf)
+
+---
+
+### **B. NCES (National Center for Education Statistics)**
+**Purpose:**  
+- State‑level school characteristics  
+- Teacher‑student ratios  
+- Per‑pupil expenditures  
+- Graduation rates  
+
+**Citation:**  
+NCES Education Data Explorer  
+[https://nces.ed.gov/ccd/elsi/](https://nces.ed.gov/ccd/elsi/)
+
+---
+
+### **C. U.S. Census Bureau — American Community Survey (ACS)**
+**Purpose:**  
+- Median household income  
+- Poverty rates  
+- Racial/ethnic composition  
+- Urban/rural distribution  
+- Educational attainment  
+
+**Citation:**  
+U.S. Census Bureau — ACS  
+`https://www.census.gov/programs-surveys/acs` [(census.gov in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fwww.census.gov%2Fprograms-surveys%2Facs")
 
 ---
 
