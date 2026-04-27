@@ -6,13 +6,13 @@ Key Table Information
 
 Table Title
 
-  Selected Social Characteristics in the United States
+  Selected Economic Characteristics
   
 -------------------------------------------------------------------------------------------------------------
 
 Table ID
 
-  ACSDP5Y2024.DP02
+  ACSDP1Y2024.DP03
   
 -------------------------------------------------------------------------------------------------------------
 
@@ -30,13 +30,13 @@ Year
 
 Dataset
 
-  ACS 5-Year Estimates Data Profiles
+  ACS 1-Year Estimates Data Profiles
   
 -------------------------------------------------------------------------------------------------------------
 
 Source
 
-  U.S. Census Bureau, 2024 American Community Survey, 5-Year Estimates
+  U.S. Census Bureau, 2024 American Community Survey, 1-Year Estimates
   
 -------------------------------------------------------------------------------------------------------------
 
@@ -104,7 +104,7 @@ Symbols
 
 Data-Specific Notes
 
-  Some of the population groups in this table are listed in both ancestry and race profiles. For example, German may be included in either an ancestry or race table because the response can be captured from the ancestry or race question. Detailed White, Black or African American, and Some Other Race groups have historically been tabulated from the ancestry question on the American Community Survey (ACS). However, improvements made to the race question in 2020 led to more detailed race groups being collected. Beginning with the 2024 ACS data products, detailed race data for White, Black or African American, and Some Other Race groups are included in race tabulations. Differences in the way the ancestry and race questions are asked, processed, and tabulated may lead to differences between ancestry and race estimates for a given group. For more information on ancestry and race estimates, please see the ACS User Note, <a href=\"https://www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2025-01.html\">Overlapping Race and Ancestry Estimates in the American Community Survey Data Products<\/a> website.<br/><br/>Ancestry listed in this table refers to the total number of people who responded with a particular ancestry; for example, the estimate given for German represents the number of people who listed German as either their first or second ancestry. This table lists only the largest ancestry groups; see the Detailed Tables for more categories. Race and Hispanic origin groups are not included in this table because data for those groups come from the Race and Hispanic origin questions rather than the ancestry question (see Demographic Table).<br/><br/>Data for year of entry of the native population reflect the year of entry into the U.S. by people who were born in Puerto Rico or U.S. Island Areas or born outside the U.S. to a U.S. citizen parent and who subsequently moved to the U.S.<br/><br/>The category \"with a broadband Internet subscription\" refers to those who said \"Yes\" to at least one of the following types of Internet subscriptions: Broadband such as cable, fiber optic, or DSL; a cellular data plan; satellite; a fixed wireless subscription; or other non-dial up subscription types.<br/><br/>An Internet \"subscription\" refers to a type of service that someone pays for to access the Internet such as a cellular data plan, broadband such as cable, fiber optic or DSL, or other type of service. This will normally refer to a service that someone is billed for directly for Internet alone or sometimes as part of a bundle.<br/><br/>\"With a computer\" includes those who said \"Yes\" to at least one of the following types of computers: Desktop or laptop; smartphone; tablet or other portable wireless computer; or some other type of computer.<br/><br/>Caution should be used when comparing data for computer and Internet use before and after 2016. Changes in 2016 to the questions involving the wording as well as the response options resulted in changed response patterns in the data. Most noticeable are increases in overall computer ownership or use, the total of Internet subscriptions, satellite subscriptions, and cellular data plans for a smartphone or other mobile device. For more detailed information about these changes, see the 2016 American Community Survey Content Test Report for Computer and Internet Use located at <a href=\"https://www.census.gov/library/working-papers/2017/acs/2017_Lewis_01.html\">https://www.census.gov/library/working-papers/2017/acs/2017_Lewis_01.html<\/a> or the user note regarding changes in the 2016 questions located at <a href=\"https://www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2017-03.html\">https://www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2017-03.html<\/a>.<br/><br/>
+  Employment and unemployment estimates may vary from the official labor force data released by the Bureau of Labor Statistics because of differences in survey design and data collection. For guidance on differences in employment and unemployment estimates from different sources go to <a href=\"https://www.census.gov/topics/employment/labor-force/guidance/survey-differences.html\">Labor Force Guidance<\/a>.<br/><br/>Workers include members of the Armed Forces and civilians who were at work last week.<br/><br/>Industry titles and their 4-digit codes are based on the 2022 North American Industry Classification System. The Industry categories adhere to the guidelines issued in Clarification Memorandum No. 2, \"NAICS Alternate Aggregation Structure for Use By U.S. Statistical Agencies,\" issued by the Office of Management and Budget.<br/><br/>Occupation titles and their 4-digit codes are based on the 2018 Standard Occupational Classification.<br/><br/>For more information on health insurance coverage categories see <a href=\"https://www.census.gov/topics/health/health-insurance/about/glossary.html#par_textimage_18\">https://www.census.gov/topics/health/health-insurance/about/glossary.html#par_textimage_18<\/a> for a list of the insurance type definitions.<br/><br/>
   
 -------------------------------------------------------------------------------------------------------------
 
@@ -120,6 +120,6 @@ Contact Information
 
 Suggested Citation
 
-  U.S. Census Bureau. \"Selected Social Characteristics in the United States\" American Community Survey, ACS 5-Year Estimates Data Profiles, Table DP02, 2024, https://data.census.gov/table/ACSDP5Y2024.DP02?q=DP02: Accessed on April 24, 2026.
+  U.S. Census Bureau. \"Selected Economic Characteristics\" American Community Survey, ACS 1-Year Estimates Data Profiles, Table DP03, 2024, https://data.census.gov/table/ACSDP1Y2024.DP03?q=DP03: Accessed on April 24, 2026.
   
 -------------------------------------------------------------------------------------------------------------
