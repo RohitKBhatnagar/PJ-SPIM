@@ -13,6 +13,7 @@ This Capstone project investigates whether a U.S. state's average SAT performanc
 
 ## Repository Structure
 * `Capstone_SAT_Analysis.ipynb`: Main Jupyter Notebook containing EDA, Cleaning, and Modeling.
+* `SATExtractor.ipynb`: Data extractor Jupyter Notebook for reading College Board PDFs from all 50 States.
 * `data/`: Directory containing raw and processed CSV files from Census, NCES, and College Board.
 * `plots/`: Visualizations including Feature Importance and Residual Plots.
 
