@@ -1,6 +1,13 @@
 # **SAT Performance and Socioeconomic Determinants: A Multi‑Year State‑Level Analysis (2019–2024)**
+<p align="center">
+  <img src="img/pj-spim_banner_sat.png" alt="SAT Analysis Banner" width="85%">
+</p>
 
-**Author:** *Rohit K. Bhatnagar*
+<h1 align="center">SAT Performance & Socioeconomic Determinants (2019–2024)</h1>
+<h3 align="center">A Multi‑Year, Multi‑Source Machine Learning Analysis</h3>
+<p align="center">
+  <strong>Author:</strong> Rohit K. Bhatnagar  
+</p>
 
 ---
 
