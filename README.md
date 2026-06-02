@@ -152,6 +152,8 @@ Best Random Forest params:
 | High Participation | 39.44 | 30.31 | 0.613 | 99 |
 | Low Participation | 27.82 | 21.49 | 0.871 | 156 |
 
+![Participation-Aware Regression Model](./img/Participation-AwareRegressionModelSAT.png)
+
 ### Residual Modeling (not directly comparable to above)
 Residual target: SAT variation left after modeling participation first.
 
@@ -161,7 +163,7 @@ Residual target: SAT variation left after modeling participation first.
 
 ---
 
-## What These Metrics Mean (Simple)
+## What These Metrics Mean
 - RMSE: Typical prediction error, but penalizes big misses more.
 - MAE: Average prediction miss in SAT points.
 - R²: Percent of score variation explained by the model.
@@ -172,7 +174,7 @@ Example:
 
 ---
 
-## Why We Ran Multiple Models (Layman Explanation)
+## Why We Ran Multiple Models
 - **Linear Regression**: Easy to interpret baseline.
 - **Ridge (cross-validated)**: Checks if regularization helps stability when predictors overlap.
 - **Random Forest**: Captures nonlinear patterns and interactions.
@@ -460,6 +462,8 @@ Still, it clearly shows:
 ##### ⭐ **Socioeconomic conditions matter, but in overlapping ways.**  
 ##### ⭐ **A more flexible model (like Random Forest) is needed for deeper insights (*See below*).**
 
+![Visual Infographic for Linear Regression Model](./img/LinearRegressionSAT.png)
+
 ---
 
 ##### **4.2 Random Forest Regression**
@@ -477,8 +481,6 @@ Still, it clearly shows:
 Random Forest outperforms linear regression, confirming **nonlinear interactions** and **threshold effects**.
 
 ![Random Forest feature importance](plots/rf_feature_importance.png)
-
-Here’s a clear, friendly, **non‑technical explanation** of your Random Forest results — perfect for a README.md and easy for any audience to understand.
 
 ---
 
@@ -551,6 +553,8 @@ Unlike linear regression, Random Forest can detect:
   (e.g., participation rate changes how income or education affect scores)
 
 This flexibility allows it to capture the **real‑world complexity** behind SAT performance.
+
+![Visual Infographic for Random Forest Regression Model](./img/RandomForestRegressionSAT.png)
 
 ---
 
@@ -752,8 +756,20 @@ This flexibility allows it to capture the **real‑world complexity** behind SAT
 ---
 
 ### Final Conclusion
-If two states have different SAT participation policies, their average SAT scores are not directly comparable without adjustment.  
-This project shows that participation structure explains a large part of score differences, and machine learning models perform best when this structure is explicitly modeled.
+
+This multi‑year analysis shows that state‑level SAT scores are shaped far more by **who takes the test** than by any inherent differences in academic quality or socioeconomic conditions. Participation rate emerges as the single most powerful structural factor: states that require all students to take the SAT naturally report lower averages, while states where only college‑bound students participate appear to “perform” better. Once this participation effect is accounted for, the remaining variation in SAT scores becomes much smaller and far harder to predict.
+
+Socioeconomic indicators—income, poverty, and educational attainment—do matter, but they operate as a **shared gradient** rather than independent drivers. Income and education move almost in lockstep, and poverty reflects the same underlying pattern from the opposite direction. These factors influence SAT performance, but their effects are secondary and often overshadowed by participation policies.
+
+The modeling results reinforce this structure. **Linear regression** provides a useful baseline but cannot fully capture the nonlinear, threshold‑based relationships present in the data. **Random Forest models** perform substantially better, explaining nearly three‑quarters of the variation in SAT scores and revealing the complex interactions between participation and socioeconomic context. **Participation‑aware segmented models** further highlight that low‑participation states behave like a selective testing system, while high‑participation states reflect population‑level performance.
+
+Across all approaches, the conclusion is consistent:  
+**Raw SAT averages are not a reliable measure of educational quality across states.**  
+They are deeply shaped by policy choices, demographic composition, and who is required—or not required—to take the test. Interpreting SAT scores without this context risks drawing misleading comparisons and oversimplifying the realities of state education systems.
+
+This project provides a transparent, reproducible framework for understanding SAT outcomes through a more accurate and equitable lens. By centering participation and socioeconomic context, it offers a clearer foundation for policy discussions, public reporting, and future research on educational assessment.
+
+![Three panel models](./img/3PanelModels.png)
 
 ### **Contact and Further Information**
 
