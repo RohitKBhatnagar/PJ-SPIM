@@ -143,56 +143,152 @@ Bottom line:
 All generated force plots are available in:
 - shap_force_plots
 
-Direct links:
-- Alabama
-- Alaska
-- Arizona
-- Arkansas
-- California
-- Colorado
-- Connecticut
-- Delaware
-- District of Columbia
-- Florida
-- Hawaii
-- Idaho
-- Illinois
-- Indiana
-- Iowa
-- Kansas
-- Kentucky
-- Louisiana
-- Maine
-- Maryland
-- Michigan
-- Minnesota
-- Mississippi
-- Missouri
-- Montana
-- Nebraska
-- Nevada
-- New Hampshire
-- New Jersey
-- New Mexico
-- New York
-- North Carolina
-- North Dakota
-- Ohio
-- Oklahoma
-- Oregon
-- Pennsylvania
-- Rhode Island
-- South Carolina
-- South Dakota
-- Tennessee
-- Texas
-- Utah
-- Vermont
-- Virginia
-- Washington
-- West Virginia
-- Wisconsin
-- Wyoming
+### Alabama
+![Alabama SHAP force plot](shap_force_plots/shap_alabama.png)
+
+### Alaska
+![Alaska SHAP force plot](shap_force_plots/shap_alaska.png)
+
+### Arizona
+![Arizona SHAP force plot](shap_force_plots/shap_arizona.png)
+
+### Arkansas
+![Arkansas SHAP force plot](shap_force_plots/shap_arkansas.png)
+
+### California
+![California SHAP force plot](shap_force_plots/shap_california.png)
+
+### Colorado
+![Colorado SHAP force plot](shap_force_plots/shap_colorado.png)
+
+### Connecticut
+![Connecticut SHAP force plot](shap_force_plots/shap_connecticut.png)
+
+### Delaware
+![Delaware SHAP force plot](shap_force_plots/shap_delaware.png)
+
+### District of Columbia
+![District of Columbia SHAP force plot](shap_force_plots/shap_district_of_columbia.png)
+
+### Florida
+![Florida SHAP force plot](shap_force_plots/shap_florida.png)
+
+### Hawaii
+![Hawaii SHAP force plot](shap_force_plots/shap_hawaii.png)
+
+### Idaho
+![Idaho SHAP force plot](shap_force_plots/shap_idaho.png)
+
+### Illinois
+![Illinois SHAP force plot](shap_force_plots/shap_illinois.png)
+
+### Indiana
+![Indiana SHAP force plot](shap_force_plots/shap_indiana.png)
+
+### Iowa
+![Iowa SHAP force plot](shap_force_plots/shap_iowa.png)
+
+### Kansas
+![Kansas SHAP force plot](shap_force_plots/shap_kansas.png)
+
+### Kentucky
+![Kentucky SHAP force plot](shap_force_plots/shap_kentucky.png)
+
+### Louisiana
+![Louisiana SHAP force plot](shap_force_plots/shap_louisiana.png)
+
+### Maine
+![Maine SHAP force plot](shap_force_plots/shap_maine.png)
+
+### Maryland
+![Maryland SHAP force plot](shap_force_plots/shap_maryland.png)
+
+### Michigan
+![Michigan SHAP force plot](shap_force_plots/shap_michigan.png)
+
+### Minnesota
+![Minnesota SHAP force plot](shap_force_plots/shap_minnesota.png)
+
+### Mississippi
+![Mississippi SHAP force plot](shap_force_plots/shap_mississippi.png)
+
+### Missouri
+![Missouri SHAP force plot](shap_force_plots/shap_missouri.png)
+
+### Montana
+![Montana SHAP force plot](shap_force_plots/shap_montana.png)
+
+### Nebraska
+![Nebraska SHAP force plot](shap_force_plots/shap_nebraska.png)
+
+### Nevada
+![Nevada SHAP force plot](shap_force_plots/shap_nevada.png)
+
+### New Hampshire
+![New Hampshire SHAP force plot](shap_force_plots/shap_new_hampshire.png)
+
+### New Jersey
+![New Jersey SHAP force plot](shap_force_plots/shap_new_jersey.png)
+
+### New Mexico
+![New Mexico SHAP force plot](shap_force_plots/shap_new_mexico.png)
+
+### New York
+![New York SHAP force plot](shap_force_plots/shap_new_york.png)
+
+### North Carolina
+![North Carolina SHAP force plot](shap_force_plots/shap_north_carolina.png)
+
+### North Dakota
+![North Dakota SHAP force plot](shap_force_plots/shap_north_dakota.png)
+
+### Ohio
+![Ohio SHAP force plot](shap_force_plots/shap_ohio.png)
+
+### Oklahoma
+![Oklahoma SHAP force plot](shap_force_plots/shap_oklahoma.png)
+
+### Oregon
+![Oregon SHAP force plot](shap_force_plots/shap_oregon.png)
+
+### Pennsylvania
+![Pennsylvania SHAP force plot](shap_force_plots/shap_pennsylvania.png)
+
+### Rhode Island
+![Rhode Island SHAP force plot](shap_force_plots/shap_rhode_island.png)
+
+### South Carolina
+![South Carolina SHAP force plot](shap_force_plots/shap_south_carolina.png)
+
+### South Dakota
+![South Dakota SHAP force plot](shap_force_plots/shap_south_dakota.png)
+
+### Tennessee
+![Tennessee SHAP force plot](shap_force_plots/shap_tennessee.png)
+
+### Texas
+![Texas SHAP force plot](shap_force_plots/shap_texas.png)
+
+### Utah
+![Utah SHAP force plot](shap_force_plots/shap_utah.png)
+
+### Vermont
+![Vermont SHAP force plot](shap_force_plots/shap_vermont.png)
+
+### Virginia
+![Virginia SHAP force plot](shap_force_plots/shap_virginia.png)
+
+### Washington
+![Washington SHAP force plot](shap_force_plots/shap_washington.png)
+
+### West Virginia
+![West Virginia SHAP force plot](shap_force_plots/shap_west_virginia.png)
+
+### Wisconsin
+![Wisconsin SHAP force plot](shap_force_plots/shap_wisconsin.png)
+
+### Wyoming
+![Wyoming SHAP force plot](shap_force_plots/shap_wyoming.png)
 
 ---
 
